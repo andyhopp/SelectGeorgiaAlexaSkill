@@ -1,0 +1,156 @@
+{
+    "languageModel": {
+        "intents": [
+            {
+                "name": "AMAZON.CancelIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.HelpIntent",
+                "samples": []
+            },
+            {
+                "name": "AMAZON.StopIntent",
+                "samples": []
+            },
+            {
+                "name": "WhyGeorgia",
+                "samples": [
+                    "Why would I want to move to Georgia",
+                    "Why should I be interested in Georgia",
+                    "Why would I want to move my company to Georgia"
+                ],
+                "slots": []
+            },
+            {
+                "name": "AboutSchools",
+                "samples": [
+                    "What can you tell me about the schools",
+                    "What schools are there",
+                    "What are the Universities like",
+                    "Tell me about the technical schools",
+                    "What are the schools like"
+                ],
+                "slots": []
+            },
+            {
+                "name": "Transportation",
+                "samples": [
+                    "What can you tell me about transportation",
+                    "How about transportation",
+                    "What are the airports like"
+                ],
+                "slots": []
+            },
+            {
+                "name": "AboutGrid",
+                "samples": [
+                    "What can you tell me about the electrical grid"
+                ],
+                "slots": []
+            },
+            {
+                "name": "EnergyCost",
+                "samples": [
+                    "How much does energy cost"
+                ],
+                "slots": []
+            },
+            {
+                "name": "RenewableEnergy",
+                "samples": [
+                    "What can you tell me about renewable energy",
+                    "What can you tell me about solar energy",
+                    "What can you tell me about renewable energy",
+                    "Are you working on renewable energy",
+                    "Are you working on green energy",
+                    "Are you working on solar energy"
+                ],
+                "slots": []
+            },
+            {
+                "name": "AboutGeorgiaPower",
+                "samples": [
+                    "What can you tell me about Georgia Power"
+                ],
+                "slots": []
+            },
+            {
+                "name": "SouthernCompanyTicker",
+                "samples": [
+                    "What is the Southern Company's ticker symbol",
+                    "Is the Southern Company's a public company",
+                    "Can I buy shares in the Southern Company"
+                ],
+                "slots": []
+            },
+            {
+                "name": "SiteSelection",
+                "samples": [
+                    "Can you help me pick a site for my business"
+                ],
+                "slots": []
+            },
+            {
+                "name": "RecruitmentTeam",
+                "samples": [
+                    "Who are the business recruitment team",
+                    "What does the business recruitment team do",
+                    "What can the business recruitment team do",
+                    "What can you tell me about the business recruitment team"
+                ],
+                "slots": []
+            },
+            {
+                "name": "RecruitmentTeamExperience",
+                "samples": [
+                    "Who has your business recruitment team worked with",
+                    "What has your business recruitment team done",
+                    "How experienced is your business recruitment team"
+                ],
+                "slots": []
+            },
+            {
+                "name": "Startups",
+                "samples": [
+                    "How many startups come to Georgia",
+                    "What startup companies were founded in Georgia"
+                ],
+                "slots": []
+            },
+            {
+                "name": "ATDC",
+                "samples": [
+                    "What can you tell me about the Advanced Technology Development Center",
+                    "What is the Advanced Technology Development Center"
+                ],
+                "slots": []
+            },
+            {
+                "name": "TechStars",
+                "samples": [
+                    "What can you tell me about TechStars Atlanta",
+                    "What is TechStars Atlanta"
+                ],
+                "slots": []
+            },
+            {
+                "name": "TechSquare",
+                "samples": [
+                    "What can you tell me about Tech Square Labs",
+                    "What is Tech Square Labs"
+                ],
+                "slots": []
+            },
+            {
+                "name": "CenterForCivicInnovation",
+                "samples": [
+                    "What can you tell me about the Center for Civic Innovation",
+                    "What is the Center for Civic Innovation"
+                ],
+                "slots": []
+            }
+        ],
+        "invocationName": "select georgia"
+    }
+}
